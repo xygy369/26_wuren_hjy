@@ -1,0 +1,4 @@
+ted_8_node:
+  ros__parameters:
+    line_v : 2.0
+    angel_v: 3.0
